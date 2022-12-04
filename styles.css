@@ -320,6 +320,10 @@ html{
 
 
   }
+  .contenedor{
+  margin-left: 5%;
+  margin-right: 5%;
+  }
   
 header .navbar{
   position: absolute;
